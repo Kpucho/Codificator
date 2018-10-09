@@ -1,0 +1,12 @@
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.csprojResolveAssemblyReference.cache
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.Form1.resources
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.Properties.Resources.resources
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.csproj.GenerateResource.Cache
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.csproj.CoreCompileInputs.cache
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\bin\Debug\Codificador.exe.config
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\bin\Debug\Codificador.exe
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\bin\Debug\Codificador.pdb
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.exe
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.pdb
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.Main.resources
+C:\Users\DIEGO\Desktop\Codificador\Codificador\Codificador\obj\Debug\Codificador.Form2.resources
